@@ -1,0 +1,28 @@
+{
+  "name": "gulpfile",
+  "version": "1.0.1",
+  "description": "Quickly create, save and reuse gulpfiles",
+  "main": "./lib/main.js",
+  "preferGlobal": "true",
+  "bin": {
+    "gulpfile": "./bin/gulpfile"
+  },
+  "homepage": "https://github.com/busterc/gulpfile",
+  "repository": {
+    "url": "https://github.com/busterc/gulpfile.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpjs",
+    "gulpfile",
+    "gulpplugin",
+    "generator",
+    "generate"
+  ],
+  "author": "busterc",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.3.0",
+    "mkdirp": "^0.5.0"
+  }
+}
