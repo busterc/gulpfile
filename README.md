@@ -1,8 +1,10 @@
 # gulpfile
 quickly create, save and reuse gulpfiles
 
+_if Grunt is your thing, check out: [grunt-file](https://github.com/busterc/grunt-file)_
+
 ## Version
-1.0.1
+1.0.2
 
 ## Installation
 

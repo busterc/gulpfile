@@ -1,6 +1,6 @@
 {
   "name": "gulpfile",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quickly create, save and reuse gulpfiles",
   "main": "./lib/main.js",
   "preferGlobal": "true",
